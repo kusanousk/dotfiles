@@ -113,8 +113,6 @@ Plug 'scrooloose/nerdtree'
 Plug 'morhetz/gruvbox'
 Plug 'thinca/vim-quickrun'
 Plug 'editorconfig/editorconfig-vim'
-Plug 'mhartington/nvim-typescript' , {'for': 'typescript', 'do': './install.sh' }
-Plug 'leafgarland/typescript-vim'
 Plug 'Shougo/deoplete.nvim'
 Plug 'mattn/emmet-vim'
 Plug 'neovim/nvim-lsp'
